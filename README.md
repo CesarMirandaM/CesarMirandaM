@@ -1,6 +1,6 @@
 - 👋 Hola, soy @CesarMirandaM
 - 👀 Me interesa aspectos de inteligencia artificial, aun no se mucho de ello pero espero aprender 
-- 🌱 Estoy estudiando la MAestría en Inheniería Eléctrica 
+- 🌱 Estoy estudiando la Maestría en Ingeniería Eléctrica 
 
 
 <!---
